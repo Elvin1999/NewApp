@@ -6,6 +6,11 @@ struct Teacher {
 	char* surname;
 };
 
+struct Student {
+	double score;
+	char* fullname;
+};
+
 void main() {
 
 }
