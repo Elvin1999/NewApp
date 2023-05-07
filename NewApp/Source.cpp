@@ -20,6 +20,9 @@ void main() {
 	cout << "Hello From Enver" << endl;
 	cout << "Hello From Enver" << endl;
 	cout << "Hello From Enver" << endl;
+	cout << "Hello From Enver" << endl;
+	cout << "Hello From Enver" << endl;
+	cout << "Hello From Enver" << endl;
 	for (size_t i = 0; i < 10; i++)
 	{
 
