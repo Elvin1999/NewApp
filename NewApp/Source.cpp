@@ -20,9 +20,4 @@ void main() {
 	cout << "Hello From Enver" << endl;
 	cout << "Hello From Enver" << endl;
 	cout << "Hello From Enver" << endl;
-	cout << "Hello From Enver" << endl;
-	cout << "Hello From Enver" << endl;
-	cout << "Hello From Enver" << endl;
-	cout << "Hello From Enver" << endl; 
-	cout << "Hello From Enver" << endl;
 }
